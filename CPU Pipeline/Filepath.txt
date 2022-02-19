@@ -1,0 +1,15 @@
+Datapath.v
+PC.v
+IntMemory.v
+Control.v
+ID_IF.v
+ID_EX.v
+EX_MEM.v
+MEM_WB.v
+Register_File.v
+ALU.v
+Data_Mem.v
+Sign_Extend.v
+Adder.v
+mux2to1.v
+
